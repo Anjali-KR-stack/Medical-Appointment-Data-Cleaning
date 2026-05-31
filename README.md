@@ -22,4 +22,4 @@ Waiting_Days
 Total_Conditions
 Final Outcome
 
-The dataset was cleaned and validated by checking data quality issues, correcting column names, removing invalid records, and creating additional columns that can be used for further analysis and reporting.
+The dataset was cleaned and validated.
